@@ -29,5 +29,5 @@ https://github.com/dnscrypt/dnscrypt-proxy/wiki/Installation-macOS
 GitHub - matryer/bitbar: Put the output from any script or program in your Mac OS X Menu Bar
 https://github.com/matryer/bitbar
 
-dnscrypt-proxy switcher on BitBar - Put anything in your Mac OS X menu bar
+dnscrypt-proxy switcher on BitBar
 https://getbitbar.com/plugins/Network/dnscrypt-proxy-switcher.10s.sh
