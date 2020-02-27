@@ -18,6 +18,9 @@ chmod +x un-dnscrypt-proxy.sh
 sudo un-dnscrypt-proxy.sh
 
 
+ChangeDNS.scpt can be used to check/set the DNS for Ethernet
+
+
 Resources:
 
 GitHub - DNSCrypt/dnscrypt-proxy: dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols
