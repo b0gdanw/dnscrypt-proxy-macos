@@ -7,15 +7,19 @@ Usage
 
 Install
 
-chmod +x dnscrypt-proxy.sh
+curl -L https://raw.githubusercontent.com/b0gdanw/dnscrypt-proxy-macos/master/dnscrypt-proxy.sh -o dnscrypt-proxy.sh
 
-sudo dnscrypt-proxy.sh
+chmod +x ./dnscrypt-proxy.sh
+
+sudo ./dnscrypt-proxy.sh
 
 Uninstall
 
-chmod +x un-dnscrypt-proxy.sh 
+curl -L https://raw.githubusercontent.com/b0gdanw/dnscrypt-proxy-macos/master/un-dnscrypt-proxy.sh -o un-dnscrypt-proxy.sh
 
-sudo un-dnscrypt-proxy.sh
+chmod +x ./un-dnscrypt-proxy.sh
+
+sudo ./un-dnscrypt-proxy.sh
 
 
 ChangeDNS.scpt can be used to check/set the DNS for Ethernet
