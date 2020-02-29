@@ -1,5 +1,3 @@
-# usage chmod +x un-dnscrypt-proxy.sh then sudo un-dnscrypt-proxy.sh
-
 # Step 1: Stoping and uninstalling the dnscrypt-proxy service
 cd ~/dnscrypt-proxy
 ./dnscrypt-proxy -service stop
